@@ -18,7 +18,6 @@
 - Dependency Injection
 - Object Mapping (AutoMapper)
 - Dapper 
-- Solid
 - Design Patterns
 
 ## 🌎 Languagues
