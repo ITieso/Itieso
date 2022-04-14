@@ -14,6 +14,12 @@
 - Angular
 - Javascript, Typescript
 - Docker, Git, SQL, SOLID, DDD, Scrum
+- Inversion of Control
+- Dependency Injection
+- Object Mapping (AutoMapper)
+- Dapper 
+- Solid
+- Design Patterns
 
 ## 🌎 Languagues
 
