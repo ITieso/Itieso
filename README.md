@@ -5,7 +5,7 @@
 ##  I'm Igor Tieso
 
 - Software Developer :computer:
-- 25y old
+- 28y old
 - Brazillian
 
 ## :triangular_flag_on_post: Technical skills
