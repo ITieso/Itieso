@@ -4,22 +4,9 @@
 # :pushpin: Hello Buddy!
 ##  I'm Igor Tieso
 
-- Software Developer :computer:
+- Software Engineer :computer:
 - 28y old
 - Brazillian
-- Sou um Engenheiro de Software com mais de 7 anos de experiência em desenvolvimento de software, atuando no planejamento, design, construção, testes e implantação de sistemas robustos e escaláveis. Especializado em .NET Core, C# e arquiteturas modernas, trabalho com APIs REST, SOLID, DDD, Clean Code e metodologias ágeis.
-- Minha experiência inclui desenvolvimento full-cycle, desde a definição de requisitos até a implementação e manutenção de soluções críticas para o negócio. Tenho forte atuação com cloud computing, utilizando AWS e Azure, e sou certificado AWS, o que me permite desenvolver, otimizar e arquitetar aplicações eficientes em ambientes de nuvem.
-- Experiência com AWS e Certificação
-Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuvem, utilizando serviços como AWS Lambda, S3, EC2 e DynamoDB para criar soluções escaláveis e eficientes. Minha certificação comprova meu conhecimento aprofundado nas melhores práticas de arquitetura e desenvolvimento em cloud.
-- Além disso, aplico princípios de DevOps para garantir pipelines de CI/CD eficientes e monitoramento contínuo das aplicações em produção, melhorando a confiabilidade e segurança dos sistemas.
-
-
-
-
-
-
-
-
 
 ## :triangular_flag_on_post: Technical skills
 
@@ -50,6 +37,13 @@ Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuve
 🚀 Implementação de arquiteturas modernas, utilizando Hexagonal Architecture, DDD e Design Patterns para garantir código limpo e modular.
 
 🚀 Redução de custos operacionais, eliminando dependências de terceiros e otimizando processos com integrações inteligentes na AWS.
+
+## :triangular_flag_on_post: About Me
+- Sou um Engenheiro de Software com mais de 7 anos de experiência em desenvolvimento de software, atuando no planejamento, design, construção, testes e implantação de sistemas robustos e escaláveis. Especializado em .NET Core, C# e arquiteturas modernas, trabalho com APIs REST, SOLID, DDD, Clean Code e metodologias ágeis.
+- Minha experiência inclui desenvolvimento full-cycle, desde a definição de requisitos até a implementação e manutenção de soluções críticas para o negócio. Tenho forte atuação com cloud computing, utilizando AWS e Azure, e sou certificado AWS, o que me permite desenvolver, otimizar e arquitetar aplicações eficientes em ambientes de nuvem.
+- Experiência com AWS e Certificação
+Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuvem, utilizando serviços como AWS Lambda, S3, EC2 e DynamoDB para criar soluções escaláveis e eficientes. Minha certificação comprova meu conhecimento aprofundado nas melhores práticas de arquitetura e desenvolvimento em cloud.
+- Além disso, aplico princípios de DevOps para garantir pipelines de CI/CD eficientes e monitoramento contínuo das aplicações em produção, melhorando a confiabilidade e segurança dos sistemas.
 
 ## 🌎 Languagues
 
