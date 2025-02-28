@@ -24,13 +24,21 @@ Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuve
 ## :triangular_flag_on_post: Technical skills
 
 ✅ .NET Core, ASP.NET 3.0+ e .NET 8 – Desenvolvimento backend robusto e escalável.
+
 ✅ AWS (Amazon Web Services) – Lambda, S3, CloudFormation, DynamoDB e EC2.
+
 ✅ Azure (Azure DevOps, TFS) – Experiência na entrega contínua e integração contínua.
+
 ✅ Docker e Kubernetes – Containerização e orquestração de microsserviços.
+
 ✅ RabbitMQ – Mensageria para aplicações distribuídas.
+
 ✅ SQL Server, MySQL – Modelagem e otimização de banco de dados.
+
 ✅ Logging & Monitoring – Kibana, Jaeger, New Relic, OpenTelemetry.
+
 ✅ Front-end – Angular, ReactJS, TypeScript, HTML5, CSS3.
+
 ✅ Testes automatizados – xUnit, Moq, NSubstitute, Bogus.
 
 
