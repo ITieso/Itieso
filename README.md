@@ -36,8 +36,11 @@ Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuve
 
 ## :triangular_flag_on_post: Career Highlights
 🚀 Desenvolvimento de sistemas críticos para o setor financeiro, incluindo automação de renegociação de contratos e gestão de clientes.
+
 🚀 Criação de APIs REST utilizando .NET Core, AWS e SQL Server, otimizando custos e melhorando a performance de sistemas.
+
 🚀 Implementação de arquiteturas modernas, utilizando Hexagonal Architecture, DDD e Design Patterns para garantir código limpo e modular.
+
 🚀 Redução de custos operacionais, eliminando dependências de terceiros e otimizando processos com integrações inteligentes na AWS.
 
 ## 🌎 Languagues
