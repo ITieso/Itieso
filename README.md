@@ -2,48 +2,70 @@
 
 
 # :pushpin: Hello Buddy!
-##  I'm Igor Tieso
 
-- Software Engineer :computer:
-- 28y old
-- Brazillian
+# 👋 Hi, I'm Igor Tieso
 
-## :triangular_flag_on_post: Technical skills
+**Senior Software Engineer | Full Stack (Backend-focused)**  
+Building scalable, business-critical systems for fintech and digital platforms.
 
-✅ .NET Core, ASP.NET 3.0+ e .NET 8 – Desenvolvimento backend robusto e escalável.
+---
 
-✅ AWS (Amazon Web Services) – Lambda, S3, CloudFormation, DynamoDB e EC2.
+## 🧠 About me
 
-✅ Azure (Azure DevOps, TFS) – Experiência na entrega contínua e integração contínua.
+- Senior Software Engineer with **7+ years of experience**
+- Strong background in **backend, cloud and distributed systems**
+- Experience delivering **financial and high-availability platforms**
+- Full-stack experience with modern frontend and backend technologies
+- Focused on **clean architecture, scalability and real business impact**
 
-✅ Docker e Kubernetes – Containerização e orquestração de microsserviços.
+---
 
-✅ RabbitMQ – Mensageria para aplicações distribuídas.
+## 🛠️ Tech Stack
 
-✅ SQL Server, MySQL – Modelagem e otimização de banco de dados.
+### Backend & Cloud
+- **.NET 6/8**, C#
+- **Node.js + TypeScript**
+- AWS: Lambda, SQS, DynamoDB, S3, CloudFormation
+- Microservices & REST APIs
+- Messaging: RabbitMQ
 
-✅ Logging & Monitoring – Kibana, Jaeger, New Relic, OpenTelemetry.
+### Frontend
+- **React + TypeScript**
+- **Next.js** (Frontend & API Routes)
+- Tailwind CSS
+- Zod
 
-✅ Front-end – Angular, ReactJS, TypeScript, HTML5, CSS3.
+### DevOps & Quality
+- CI/CD (Azure DevOps)
+- Docker & Kubernetes
+- Observability: Datadog, OpenTelemetry, Jaeger
+- Testing: **xUnit, Jest**
 
-✅ Testes automatizados – xUnit, Moq, NSubstitute, Bogus.
+---
 
+## 🚀 Career Highlights
 
-## :triangular_flag_on_post: Career Highlights
-🚀 Desenvolvimento de sistemas críticos para o setor financeiro, incluindo automação de renegociação de contratos e gestão de clientes.
+- Built and maintained **business-critical financial systems**
+- Delivered scalable APIs reducing operational costs and manual processes
+- Designed systems using **Clean Architecture, DDD and C4 Model**
+- Worked end-to-end: architecture, development, deployment and monitoring
 
-🚀 Criação de APIs REST utilizando .NET Core, AWS e SQL Server, otimizando custos e melhorando a performance de sistemas.
+---
 
-🚀 Implementação de arquiteturas modernas, utilizando Hexagonal Architecture, DDD e Design Patterns para garantir código limpo e modular.
+## 🌍 Languages
+- Portuguese (Native)
+- English (Professional)
 
-🚀 Redução de custos operacionais, eliminando dependências de terceiros e otimizando processos com integrações inteligentes na AWS.
+---
 
-## :triangular_flag_on_post: About Me
-- Sou um Engenheiro de Software com mais de 7 anos de experiência em desenvolvimento de software, atuando no planejamento, design, construção, testes e implantação de sistemas robustos e escaláveis. Especializado em .NET Core, C# e arquiteturas modernas, trabalho com APIs REST, SOLID, DDD, Clean Code e metodologias ágeis.
-- Minha experiência inclui desenvolvimento full-cycle, desde a definição de requisitos até a implementação e manutenção de soluções críticas para o negócio. Tenho forte atuação com cloud computing, utilizando AWS e Azure, e sou certificado AWS, o que me permite desenvolver, otimizar e arquitetar aplicações eficientes em ambientes de nuvem.
-- Experiência com AWS e Certificação
-Como profissional certificado AWS, desenvolvo e otimizo aplicações para a nuvem, utilizando serviços como AWS Lambda, S3, EC2 e DynamoDB para criar soluções escaláveis e eficientes. Minha certificação comprova meu conhecimento aprofundado nas melhores práticas de arquitetura e desenvolvimento em cloud.
-- Além disso, aplico princípios de DevOps para garantir pipelines de CI/CD eficientes e monitoramento contínuo das aplicações em produção, melhorando a confiabilidade e segurança dos sistemas.
+## 🔗 Contacts
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/ITieso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/igor-tieso-1b6bb0180/)
+
+---
+⭐ Thanks for visiting!
+
 
 ## 🌎 Languagues
 
