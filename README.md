@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Igor Tieso
 
-**Senior Software Engineer | Full Stack (Backend-focused)**  
+**Senior Full-Stack Engineer | .NET/C# & React/Next.js**  
 Building scalable, business-critical systems for fintech and digital platforms.
 
 ---
